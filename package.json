@@ -10,5 +10,6 @@
     "hardhat": "^3.0.7",
     "typescript": "~5.8.0",
     "viem": "^2.38.3"
-  }
+  },
+  "packageManager": "yarn@4.10.3"
 }
